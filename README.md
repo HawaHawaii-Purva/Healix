@@ -8,4 +8,4 @@ Health Platform Website — a team project focused on overall digital healthcare
 4. Thummar Dhruv Maheshbhai, 2401031800088
 
 ## Project Status
-Development in progress.
+Development done successfully.
